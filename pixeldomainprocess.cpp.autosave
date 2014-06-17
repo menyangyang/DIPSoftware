@@ -1,0 +1,10 @@
+#include"diptool.h"
+
+void DIPTool::grayScaleValue(DIPTool *child)
+{
+    IplImage * srcImage =child ->QImageToIplImage(child ->image) ;
+    
+    cvsi
+
+
+}
